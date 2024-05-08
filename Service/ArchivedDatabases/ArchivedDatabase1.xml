@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfDatabaseEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseEntry>
+    <Id>0</Id>
+    <Region>Banat</Region>
+    <City>Kikinda</City>
+    <Year>2023</Year>
+    <Consumption>
+      <double>1</double>
+      <double>2</double>
+      <double>3</double>
+      <double>4</double>
+      <double>5</double>
+      <double>6</double>
+      <double>7</double>
+      <double>8</double>
+      <double>9</double>
+      <double>10</double>
+      <double>11</double>
+      <double>12</double>
+    </Consumption>
+  </DatabaseEntry>
+  <DatabaseEntry>
+    <Id>1</Id>
+    <Region>Backa</Region>
+    <City>Novi Sad</City>
+    <Year>2023</Year>
+    <Consumption>
+      <double>23</double>
+      <double>46</double>
+      <double>94</double>
+      <double>32</double>
+      <double>96</double>
+      <double>54</double>
+      <double>80</double>
+      <double>32</double>
+      <double>26</double>
+      <double>86</double>
+      <double>7</double>
+      <double>45</double>
+    </Consumption>
+  </DatabaseEntry>
+</ArrayOfDatabaseEntry>
